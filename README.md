@@ -21,15 +21,15 @@
 ---
 
 ## 📊 GitHub Stats
-![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivani-Kamath&show_icons=true&theme=radical)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Shivani-Kamath&theme=radical)
 
 ---
 
 ## 🌐 Connect with Me
-- LinkedIn: (add your link)
-- Email: (your email)
+- LinkedIn: (https://www.linkedin.com/in/shivani-kamath-/)
+- Email: (shivanikamath369@gmail.com)
 
 ---
 
